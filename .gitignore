@@ -1,0 +1,7 @@
+.pytest_cache
+clinicapi/structure.jpg
+__pycache__
+clinicappi.sublime-project
+clinicappi.sublime-workspace
+
+*.pdf

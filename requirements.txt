@@ -1,0 +1,8 @@
+fastapi[all]
+uvicorn==0.15.0
+sqlalchemy
+pdfkit
+pyjwt
+mysqlclient
+jinja2
+werkzeug
